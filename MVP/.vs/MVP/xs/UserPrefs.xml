@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B3FA6E63-F102-AA35-6DD1-B1FDE7527F3E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyWall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Patrol.cs" Line="27" Column="130" />
+      <File FileName="Assets/Scripts/Virus.cs" Line="4" Column="21" />
+      <File FileName="Assets/Scripts/FinalWall.cs" Line="24" Column="60" />
+      <File FileName="Assets/Scripts/LoadLungs.cs" Line="20" Column="52" />
+      <File FileName="Assets/Scripts/CountdownTimer.cs" Line="20" Column="35" />
+      <File FileName="Assets/Scripts/DestroyWall.cs" Line="8" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
